@@ -1,0 +1,25 @@
+﻿header{
+    background-color: darkslategray;
+    padding: 10px;
+    text-align: center;
+    font-size: 25px;
+}
+
+.input{
+    color: red;
+}
+
+body{
+    font-family: 'Times New Roman', serif;
+    background-color: lightgray;
+}
+
+p{
+    color: GrayText;
+    font-size: 15px;
+}
+
+li{
+    color: lightslategray;
+}
+
